@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Kazaneza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazaneza)](https://github.com/anuraghazra/github-readme-stats)
-![Kazaneza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazaneza&count_private=true)
-![Kazaneza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazaneza&show_icons=true)
-![Kazaneza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazaneza&show_icons=true&theme=radical)
+![Kazaneza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazaneza&show_icons=true&theme=dark)
