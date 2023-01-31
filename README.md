@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazaneza&repo=portfolio)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kazaneza/portfolio))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazaneza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
